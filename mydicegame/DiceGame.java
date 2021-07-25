@@ -1,6 +1,3 @@
-// Bardia Parmoun
-// 101143006
-
 package mydicegame;
 
 import java.util.Scanner;
